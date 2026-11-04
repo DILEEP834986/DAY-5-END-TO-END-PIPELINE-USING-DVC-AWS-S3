@@ -6,3 +6,9 @@
 2026-11-03 15:49:30,324 - model_building - DEBUG - Model training started with 4152 samples
 2026-11-03 15:49:30,597 - model_building - DEBUG - Model training completed
 2026-11-03 15:49:30,602 - model_building - DEBUG - Model saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\models\model.pkl
+2026-11-04 10:53:00,834 - model_building - DEBUG - Parameters retrieved from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\params.yaml
+2026-11-04 10:53:00,879 - model_building - DEBUG - Data loaded from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\processed\train_tfidf.csv with shape (4152, 36)
+2026-11-04 10:53:00,881 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 25, 'random_state': 2}
+2026-11-04 10:53:00,881 - model_building - DEBUG - Model training started with 4152 samples
+2026-11-04 10:53:01,081 - model_building - DEBUG - Model training completed
+2026-11-04 10:53:01,085 - model_building - DEBUG - Model saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\models\model.pkl
