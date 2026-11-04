@@ -1,0 +1,8 @@
+2026-11-02 19:27:51,994 - feature_engineering - ERROR - File not found: params.yaml
+2026-11-02 19:27:51,997 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: 'params.yaml'
+2026-11-02 19:29:45,021 - feature_engineering - DEBUG - Parameters retrieved from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\params.yaml
+2026-11-02 19:29:45,037 - feature_engineering - DEBUG - Data loaded and NaNs filled from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\interim\train_processed.csv
+2026-11-02 19:29:45,048 - feature_engineering - DEBUG - Data loaded and NaNs filled from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\interim\test_processed.csv
+2026-11-02 19:29:45,129 - feature_engineering - DEBUG - tfidf applied and data transformed
+2026-11-02 19:29:45,221 - feature_engineering - DEBUG - Data saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\processed\train_tfidf.csv
+2026-11-02 19:29:45,255 - feature_engineering - DEBUG - Data saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\processed\test_tfidf.csv

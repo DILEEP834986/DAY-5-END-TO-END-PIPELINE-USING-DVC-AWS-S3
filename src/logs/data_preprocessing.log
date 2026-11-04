@@ -1,0 +1,10 @@
+2026-11-02 19:13:51,174 - data_preprocessing - DEBUG - Data loaded properly
+2026-11-02 19:13:51,174 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-11-02 19:13:51,396 - data_preprocessing - DEBUG - Target column encoded
+2026-11-02 19:13:51,409 - data_preprocessing - DEBUG - Duplicates removed
+2026-11-02 19:15:06,265 - data_preprocessing - DEBUG - Text column transformed
+2026-11-02 19:15:06,265 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-11-02 19:15:06,265 - data_preprocessing - DEBUG - Target column encoded
+2026-11-02 19:15:06,265 - data_preprocessing - DEBUG - Duplicates removed
+2026-11-02 19:15:20,577 - data_preprocessing - DEBUG - Text column transformed
+2026-11-02 19:15:20,593 - data_preprocessing - DEBUG - Processed data saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\interim

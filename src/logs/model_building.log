@@ -1,0 +1,8 @@
+2026-11-02 19:30:47,453 - model_building - ERROR - File not found: params.yaml
+2026-11-02 19:30:47,454 - model_building - ERROR - Failed to complete the model building process: [Errno 2] No such file or directory: 'params.yaml'
+2026-11-03 15:49:30,271 - model_building - DEBUG - Parameters retrieved from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\params.yaml
+2026-11-03 15:49:30,320 - model_building - DEBUG - Data loaded from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\processed\train_tfidf.csv with shape (4152, 36)
+2026-11-03 15:49:30,323 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2026-11-03 15:49:30,324 - model_building - DEBUG - Model training started with 4152 samples
+2026-11-03 15:49:30,597 - model_building - DEBUG - Model training completed
+2026-11-03 15:49:30,602 - model_building - DEBUG - Model saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\models\model.pkl

@@ -1,0 +1,12 @@
+2026-11-03 16:53:16,803 - model_evaluation - ERROR - File not found: params.yaml
+2026-11-03 16:53:16,804 - model_evaluation - ERROR - Failed to complete the model evaluation process: [Errno 2] No such file or directory: 'params.yaml'
+2026-11-03 16:55:23,388 - model_evaluation - DEBUG - Parameters retrieved from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\params.yaml
+2026-11-03 16:55:23,723 - model_evaluation - DEBUG - Model loaded from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\models\model.pkl
+2026-11-03 16:55:23,729 - model_evaluation - DEBUG - Data loaded from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\processed\test_tfidf.csv
+2026-11-03 16:55:24,200 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-11-03 17:02:43,562 - model_evaluation - DEBUG - Parameters retrieved from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\params.yaml
+2026-11-03 17:02:43,776 - model_evaluation - DEBUG - Model loaded from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\models\model.pkl
+2026-11-03 17:02:43,780 - model_evaluation - DEBUG - Data loaded from D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\data\processed\test_tfidf.csv
+2026-11-03 17:02:43,818 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-11-03 17:02:46,053 - model_evaluation - DEBUG - Metrics saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\reports\metrics.json
+2026-11-03 17:17:29,519 - model_evaluation - DEBUG - Metrics saved to D:\study-material\mlops\DAY-5-END-TO-END-PIPELINE-USING-DVC-AWS-S3\reports\metrics.json
